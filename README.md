@@ -7,8 +7,8 @@
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
        alt="A gif of a coding wizard"
   />
-  <-- Original art btw :)
 </p>
+<p align="center">ORIGINAL ART BTW :)</p>
 <hr/>
 
 <!--
