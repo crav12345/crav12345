@@ -9,7 +9,9 @@
 <p align="center">ORIGINAL ART BTW :)</p>
 <hr/>
 <h2>About</h2>
-
+<p>
+  Hello! I'm Christopher Ravosa, a software developer for the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>,     both from <a>Marist College</a>. I've spent time in the video game industry as a developer on <em>Call of Duty: Vanguard</em>, but I do all sorts of coding! I'm       always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team.       Please check out some of my work here on GitHub and visit my <a>website</a> to learn a little more about me!
+</p>
 <h2>Areas of Interest</h2>
 <ul>
   <li>Mobile development</li>
@@ -17,7 +19,6 @@
   <li>Algorithm design and analysis</li>
   <li>Game design and development</li>
 </ul>
-
 <h2>Tool Proficiencies</h2>
 <table><tr><td valign="top" width="33%">
   
@@ -37,6 +38,11 @@
        width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
        alt="HTML5"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
+       alt="Kotlin"
   />
   <img
        width="50"
@@ -66,6 +72,11 @@
        width="50"
        src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"
        alt="C#"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
+       alt="Kotlin"
   />
 </div></td><td valign="top" width="33%">
 
