@@ -14,9 +14,20 @@
   />
   <p>the code wizard is original art btw :)</p>
 </div>
+<p align="center">
+  <a href="https://twitter.com/cravosa1" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christopherravosa/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/crav12345/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+</p>
 <hr/>
 <h2>About</h2>
-<p>Hello! I'm Christopher Ravosa, a software developer for the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>, both from <a href="https://www.marist.edu/">Marist College</a>. I've spent time in the video game industry as a developer on <em>Call of Duty: Vanguard</em>, but I do all sorts of coding! I'm always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team. Please check out some of my work here on GitHub and visit my <a href="https://www.chrisravosa.com">website</a> to learn a little more about me!</p>
+<p>Hello! I'm Christopher Ravosa, a software developer for the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>, both from <a href="https://www.marist.edu/" target="_blank">Marist College</a>. I've spent time in the video game industry as a developer on <em>Call of Duty: Vanguard</em>, but I do all sorts of coding! I'm always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team. Please check out some of my work here on GitHub and visit my <a href="https://www.chrisravosa.com" target="_blank">website</a> to learn a little more about me!</p>
 <h2>Areas of Interest</h2>
 <ul>
   <li>Mobile development</li>
