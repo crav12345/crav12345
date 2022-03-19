@@ -12,7 +12,7 @@
      src="https://profile-counter.glitch.me/crav12345/count.svg"
      alt="Visitor counter"
   />
-  <p size="3">the code wizard is original art btw :)</p>
+  <sub>the code wizard is original art btw :)</sub>
 </div>
 <p align="center">
   <a href="https://twitter.com/cravosa1" target="_blank">
