@@ -1,4 +1,4 @@
-<p align="center" style="font-size:64px">
+<p align="center" style="font-size:64">
 Welcome wary coder! I'm Chris and I'm a coding wizard!
 </p>
 <p align="center">
