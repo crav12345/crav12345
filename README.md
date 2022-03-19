@@ -20,12 +20,15 @@
 
 <h2>Relevant Skills</h2>
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend
 <div align="center">
 </div></td><td valign="top" width="33%">
+
 ### Backend
 <div align="center">
 </div></td><td valign="top" width="33%">
+
 ### Game Development
 <div align="center">
 </div></td><td valign="top" width="33%">
