@@ -100,7 +100,7 @@
   />
   <img
        width="50"
-       src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg"
+       src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png"
        alt="MongoDB"
   />
   <img
@@ -115,9 +115,13 @@
   />
 </div></td><td valign="top" width="33%">
 
-### Game Development
+### Other
 <div align="center">
-  <p>COMING SOON</p>
+  <img
+       width="50"
+       src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png"
+       alt="Unity"
+  />
 </div></td></tr></table>
 
 <br />
