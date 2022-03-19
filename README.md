@@ -1,6 +1,6 @@
-<div align="center">
-  <font size="30">Welcome wary coder! I'm Chris and I'm a coding wizard!</font>
-</div>
+<p align="center" style="font-size:10vw">
+  Welcome wary coder! I'm Chris and I'm a coding wizard!
+</p>
 <p align="center">
   <img 
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
