@@ -64,7 +64,7 @@
   />
   <img
        width="50"
-       src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"
+       src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"
        alt="C#"
   />
 </div></td><td valign="top" width="33%">
