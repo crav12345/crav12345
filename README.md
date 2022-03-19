@@ -1,7 +1,5 @@
 <hr/>
-<h3 align="center">
-  Welcome weary developer! I'm Chris and I'm a coding wizard!
-</h3>
+<h3 align="center">Welcome weary developer! I'm Chris and I'm a coding wizard!</h3>
 <p align="center">
   <img 
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
@@ -11,10 +9,12 @@
 <p align="center">ORIGINAL ART BTW :)</p>
 <hr/>
 <h2>Areas of Interest</h2>
-* Mobile development
-* Augmented reality
-* Algorithm design and analysis
-* Game design and development
+<ul>
+  <li>Mobile development</li>
+  <li>Augmented reality</li>
+  <li>Algorithm design and analysis</li>
+  <li>Game design and development</li>
+</ul>
 
 <!--
 **crav12345/crav12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
