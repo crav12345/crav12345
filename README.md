@@ -6,12 +6,11 @@
        alt="A gif of a coding wizard"
   />
 </p>
-<p align="center">ORIGINAL ART BTW :)</p>
-<div>
 <img
      src="https://profile-counter.glitch.me/crav12345/count.svg"
      alt="Visitor counter"
 />
+<p align="center">ORIGINAL ART BTW :)</p>
 </div>
 <hr/>
 <h2>About</h2>
