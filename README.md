@@ -28,6 +28,16 @@
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
        alt="React Native"
   />
+  <img
+       width="50"
+       src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"
+       alt="CSS"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
+       alt="CSS"
+  />
 </div></td><td valign="top" width="33%">
 
 ### Backend
