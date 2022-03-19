@@ -1,5 +1,5 @@
 <hr/>
-<h3 align="center">Welcome weary developer! I'm Chris and I'm a coding wizard!</h3>
+<h3 align="center">Welcome weary developer! Let's explore the magic of code!</h3>
 <p align="center">
   <img 
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
