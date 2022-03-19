@@ -36,18 +36,37 @@
   <img
        width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
-       alt="CSS"
+       alt="HTML5"
   />
   <img
        width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
-       alt="CSS"
+       alt="JavaScript"
   />
 </div></td><td valign="top" width="33%">
 
 ### Backend
 <div align="center">
-  <p>COMING SOON</p>
+  <img
+       width="50"
+       src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-4-logo.png"
+       alt="Java"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+       alt="JavaScript"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"
+       alt="Python"
+  />
+  <img
+       width="50"
+       src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"
+       alt="C#"
+  />
 </div></td><td valign="top" width="33%">
 
 ### Game Development
