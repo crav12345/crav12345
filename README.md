@@ -18,7 +18,7 @@
   <li>Game design and development</li>
 </ul>
 
-<h2>Relevant Skills</h2>
+<h2>Tool Proficiencies</h2>
 <table><tr><td valign="top" width="33%">
   
 ### Frontend
