@@ -1,6 +1,6 @@
 <hr/>
 <h3 align="center">
-  Welcome wary coder! I'm Chris and I'm a coding wizard!
+  Welcome wary developer! I'm Chris and I'm a coding wizard!
 </h3>
 <p align="center">
   <img 
@@ -9,11 +9,6 @@
   />
 </p>
 <hr/>
-<h2>About Me</h2>
-<div>
-  <p>M.S. Software Development</p>
-  <p>B.S. Computer Science</p>
-</div>
 
 <!--
 **crav12345/crav12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
