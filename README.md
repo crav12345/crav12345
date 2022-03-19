@@ -8,7 +8,10 @@
 </p>
 <p align="center">ORIGINAL ART BTW :)</p>
 <div>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<img
+     src="https://profile-counter.glitch.me/crav12345/count.svg"
+     alt="Visitor counter"
+/>
 </div>
 <hr/>
 <h2>About</h2>
