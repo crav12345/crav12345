@@ -12,7 +12,7 @@
      src="https://profile-counter.glitch.me/crav12345/count.svg"
      alt="Visitor counter"
   />
-  <p>the wizard is original art btw :)</p>
+  <p>the code wizard is original art btw :)</p>
 </div>
 <hr/>
 <h2>About</h2>
@@ -82,6 +82,36 @@
        width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
        alt="Kotlin"
+  />
+  <img
+       width="50"
+       src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
+       alt="Postman"
+  />
+  <img
+       width="50"
+       src="https://image.winudf.com/v2/image1/YWlyLlNRTEVkaXRvcl9pY29uXzE1NjY5OTkyOTJfMDc5/icon.png?w=&fakeurl=1"
+       alt="SQL"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+       alt="Node.js"
+  />
+  <img
+       width="50"
+       src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg"
+       alt="MongoDB"
+  />
+  <img
+       width="50"
+       src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+       alt="Git"
+  />
+  <img
+       width="50"
+       src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/38cea/express-routing-logo.png"
+       alt="Express.js"
   />
 </div></td><td valign="top" width="33%">
 
