@@ -9,6 +9,11 @@
   />
 </p>
 <hr/>
+<h2>About Me</h2>
+<div>
+  <p>M.S. Software Development</p>
+  <p>B.S. Computer Science</p>
+</div>
 
 <!--
 **crav12345/crav12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
