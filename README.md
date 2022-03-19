@@ -41,6 +41,16 @@
   />
   <img
        width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"
+       alt="Android Studio"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+       alt="Figma"
+  />
+  <img
+       width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
        alt="HTML5"
   />
@@ -115,12 +125,22 @@
   />
 </div></td><td valign="top" width="33%">
 
-### Other
+### Game Development
 <div align="center">
   <img
        width="50"
        src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png"
        alt="Unity"
+  />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png"
+       alt="Construct"
+  />
+  <img
+       width="50"
+       src="https://msbassetttech.weebly.com/uploads/1/3/3/9/13391031/piksel-logo_orig.png"
+       alt="Piskel"
   />
 </div></td></tr></table>
 
