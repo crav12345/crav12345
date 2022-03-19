@@ -14,7 +14,7 @@
   />
 </div>
 <p align="center">
-  <sub>the code wizard is original art btw :)</sub>
+  <sub>The code wizard is original art btw! :smile:</sub>
 </p>
 <p align="center">
   <a href="https://twitter.com/cravosa1" target="_blank">
