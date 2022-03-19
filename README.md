@@ -31,8 +31,7 @@
 
 ### Game Development
 <div align="center">
-</div></td></tr>
-</table>
+</div></td></tr></table>
 
 <br />
 
