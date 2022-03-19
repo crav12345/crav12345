@@ -12,9 +12,10 @@
      src="https://profile-counter.glitch.me/crav12345/count.svg"
      alt="Visitor counter"
   />
-  <br />
-  <sub>the code wizard is original art btw :)</sub>
 </div>
+<p align="center">
+  <sub>the code wizard is original art btw :)</sub>
+</p>
 <p align="center">
   <a href="https://twitter.com/cravosa1" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
