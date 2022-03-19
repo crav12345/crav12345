@@ -15,21 +15,23 @@
   <li>Algorithm design and analysis</li>
   <li>Game design and development</li>
 </ul>
+
 <br/>
+
 <h2>Relevant Skills</h2>
 <table><tr><td valign="top" width="33%">
-
 ### Frontend
 <div align="center">
 </div></td><td valign="top" width="33%">
-
 ### Backend
 <div align="center">
 </div></td><td valign="top" width="33%">
-
 ### Game Development
 <div align="center">
 </div></td><td valign="top" width="33%">
+</table></tr></td>
+
+<br />
 
 <!--
 **crav12345/crav12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
