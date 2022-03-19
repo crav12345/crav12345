@@ -12,6 +12,7 @@
      src="https://profile-counter.glitch.me/crav12345/count.svg"
      alt="Visitor counter"
   />
+  <br />
   <sub>the code wizard is original art btw :)</sub>
 </div>
 <p align="center">
@@ -170,7 +171,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Visitor counter badge
-- Social badges
-- Images for technologies
 -->
