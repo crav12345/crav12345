@@ -38,6 +38,11 @@
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
        alt="CSS"
   />
+  <img
+       width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
+       alt="CSS"
+  />
 </div></td><td valign="top" width="33%">
 
 ### Backend
