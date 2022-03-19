@@ -9,9 +9,7 @@
 <p align="center">ORIGINAL ART BTW :)</p>
 <hr/>
 <h2>About</h2>
-<p>
-  Hello! I'm Christopher Ravosa, a software developer for the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>,     both from <a>Marist College</a>. I've spent time in the video game industry as a developer on <em>Call of Duty: Vanguard</em>, but I do all sorts of coding! I'm       always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team.       Please check out some of my work here on GitHub and visit my <a>website</a> to learn a little more about me!
-</p>
+<p>Hello! I'm Christopher Ravosa, a software developer for the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>, both from <a href="https://www.marist.edu/">Marist College</a>. I've spent time in the video game industry as a developer on <em>Call of Duty: Vanguard</em>, but I do all sorts of coding! I'm always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team. Please check out some of my work here on GitHub and visit my <a href="https://www.chrisravosa.com">website</a> to learn a little more about me!</p>
 <h2>Areas of Interest</h2>
 <ul>
   <li>Mobile development</li>
