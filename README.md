@@ -1,7 +1,12 @@
 <h2 align="center">
-Welcome! I'm Christopher Ravosa and I'm a coding wizard!
+Welcome wary coder! I'm Chris and I'm a coding wizard!
 </h2>
-![Gif of a coding wizard](https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif)
+<p align="center">
+  <img
+       src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
+       alt="A gif of a coding wizard"
+  />
+</p>
 
 <!--
 **crav12345/crav12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
