@@ -1,5 +1,5 @@
 <h2 align="center">
-## Welcome! I'm Christopher Ravosa and I'm a coding wizard!
+Welcome! I'm Christopher Ravosa and I'm a coding wizard!
 </h2>
 ![Gif of a coding wizard](https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif)
 
