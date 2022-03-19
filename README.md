@@ -1,6 +1,6 @@
-<p align="center">
-  ### Welcome wary coder! I'm Chris and I'm a coding wizard!
-</p>
+<div align="center">
+  <p align="center" style="font-size:24px">Welcome wary coder! I'm Chris and I'm a coding wizard!</p>
+</div>
 <p align="center">
   <img 
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
