@@ -21,14 +21,17 @@
   
 ### Frontend
 <div align="center">
+  <p>COMING SOON</p>
 </div></td><td valign="top" width="33%">
 
 ### Backend
 <div align="center">
+  <p>COMING SOON</p>
 </div></td><td valign="top" width="33%">
 
 ### Game Development
 <div align="center">
+  <p>COMING SOON</p>
 </div></td></tr></table>
 
 <br />
