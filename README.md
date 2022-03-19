@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:30em>Welcome wary coder! I'm Chris and I'm a coding wizard!</span>
+  ### Welcome wary coder! I'm Chris and I'm a coding wizard!
 </p>
 <p align="center">
   <img 
