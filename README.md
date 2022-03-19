@@ -21,7 +21,10 @@
   
 ### Frontend
 <div align="center">
-  <p>COMING SOON</p>
+  <img
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+       alt="React Native"
+  />
 </div></td><td valign="top" width="33%">
 
 ### Backend
@@ -49,4 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Visitor counter badge
+- Social badges
+- Images for technologies
 -->
