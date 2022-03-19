@@ -8,6 +8,8 @@
 </p>
 <p align="center">ORIGINAL ART BTW :)</p>
 <hr/>
+<h2>About</h2>
+
 <h2>Areas of Interest</h2>
 <ul>
   <li>Mobile development</li>
@@ -22,6 +24,7 @@
 ### Frontend
 <div align="center">
   <img
+       style="width:200px, height: auto"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
        alt="React Native"
   />
