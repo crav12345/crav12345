@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center" style="font-size:24px">Welcome wary coder! I'm Chris and I'm a coding wizard!</p>
+  <font size="30">Welcome wary coder! I'm Chris and I'm a coding wizard!</font>
 </div>
 <p align="center">
   <img 
