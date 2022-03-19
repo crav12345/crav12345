@@ -7,7 +7,7 @@
   />
   <br />
   <br />
-  <p>Visitors</p>
+  <p>VISITORS</p>
   <img
      src="https://profile-counter.glitch.me/crav12345/count.svg"
      alt="Visitor counter"
