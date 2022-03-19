@@ -1,6 +1,6 @@
-<h2 align="center">
+<Title align="center">
 Welcome wary coder! I'm Chris and I'm a coding wizard!
-</h2>
+</Title>
 <p align="center">
   <img
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
