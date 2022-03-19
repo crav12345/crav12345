@@ -1,8 +1,8 @@
-<p align="center" style="font-size:64">
-Welcome wary coder! I'm Chris and I'm a coding wizard!
+<p align="center" style="font-size:30em">
+  Welcome wary coder! I'm Chris and I'm a coding wizard!
 </p>
 <p align="center">
-  <img
+  <img 
        src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
        alt="A gif of a coding wizard"
   />
