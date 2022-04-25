@@ -134,6 +134,11 @@
   />
   <img
        width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"
+       alt="Rust"
+  />
+  <img
+       width="50"
        src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/38cea/express-routing-logo.png"
        alt="Express.js"
   />
