@@ -139,7 +139,7 @@
   />
   <img
        width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+       src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"
        alt="Express.js"
   />
 </div></td><td valign="top" width="33%">
