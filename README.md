@@ -139,7 +139,7 @@
   />
   <img
        width="50"
-       src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"
+       src="https://www.sohamkamani.com/nodejs/expressjs-architecture/express-routing-logo.png"
        alt="Express.js"
   />
 </div></td><td valign="top" width="33%">
