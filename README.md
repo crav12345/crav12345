@@ -139,7 +139,7 @@
   />
   <img
        width="50"
-       src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/38cea/express-routing-logo.png"
+       src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
        alt="Express.js"
   />
 </div></td><td valign="top" width="33%">
