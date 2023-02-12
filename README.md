@@ -104,6 +104,11 @@
   />
   <img
        width="50"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"
+       alt="C++"
+  />
+  <img
+       width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
        alt="Kotlin"
   />
