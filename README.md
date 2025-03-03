@@ -29,7 +29,7 @@
 </p>
 <hr/>
 <h2>About</h2>
-<p>Hello! I'm Christopher Ravosa, a software developer from the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>, both from <a href="https://www.marist.edu/" target="_blank">Marist College</a>. I've spent time in the video game industry as a developer on <em>Call of Duty: Vanguard</em> and <em>The Last of Us</em>, but I do all sorts of coding! I'm always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team. Please check out some of my work here on GitHub and visit my <a href="https://www.chrisravosa.com" target="_blank">website</a> to learn a little more about me!</p>
+<p>Hello! I'm Christopher Ravosa, a software developer from the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>, both from <a href="https://www.marist.edu/" target="_blank">Marist College</a>. I've worked with award winning teams at companies like Sony PlayStation, Activision Publishing, and Major League Baseball! I'm always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team. Please check out some of my work here on GitHub and visit my <a href="https://crav12345.github.io/ChrisRavosa.com/" target="_blank">website</a> to learn a little more about me!</p>
 <h3>Email: Christopher.Ravosa99@gmail.com</h3>
 <h2>Areas of Interest</h2>
 <ul>
@@ -106,11 +106,6 @@
        width="50"
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"
        alt="C++"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
-       alt="Kotlin"
   />
   <img
        width="50"
