@@ -1,21 +1,5 @@
 <hr/>
-<h3 align="center">Welcome weary developer! Let's explore the magic of code!</h3>
-<div align="center">
-  <img 
-       src="https://piskel-imgstore-b.appspot.com/img/6246b27d-a724-11ec-a173-5f19532e15bf.gif"
-       alt="A gif of a coding wizard"
-  />
-  <br />
-  <br />
-  <p>VISITORS</p>
-  <img
-     src="https://profile-counter.glitch.me/crav12345/count.svg"
-     alt="Visitor counter"
-  />
-</div>
-<p align="center">
-  <sub>The code wizard is original art btw! :smile:</sub>
-</p>
+<h3 align="center">CHRISTOPHER RAVOSA</h3>
 <p align="center">
   <a href="https://twitter.com/cravosa1" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
