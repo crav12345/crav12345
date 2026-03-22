@@ -1,13 +1,5 @@
 <hr/>
 <h3 align="center">CHRISTOPHER RAVOSA</h3>
-<p align="center">
-  <a href="https://twitter.com/cravosa1" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" />
-  </a>
-  <a href="https://www.linkedin.com/in/christopherravosa/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" />
-  </a>
-</p>
 <hr/>
 
 <h2>About</h2>
@@ -24,7 +16,9 @@ I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Developme
 </p>
 
 <p>
-More: <a href="https://www.chrisravosa.com/" target="_blank">Website</a><br/>
+Website: <a href="https://www.chrisravosa.com/" target="_blank">ChrisRavosa.com</a><br/>
+X: <a href="https://x.com/cravosa1" target="_blank">@cravosa1</a><br/>
+LinkedIn: <a href="https://www.linkedin.com/in/christopherravosa/" target="_blank">Christopher Ravosa</a><br/>
 Contact: Christopher.Ravosa99@gmail.com
 </p>
 
