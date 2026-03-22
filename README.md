@@ -2,164 +2,74 @@
 <h3 align="center">CHRISTOPHER RAVOSA</h3>
 <p align="center">
   <a href="https://twitter.com/cravosa1" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" />
   </a>
   <a href="https://www.linkedin.com/in/christopherravosa/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/crav12345/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" />
   </a>
 </p>
 <hr/>
+
 <h2>About</h2>
-<p>Hello! I'm Christopher Ravosa, a software developer from the United States. I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em>, both from <a href="https://www.marist.edu/" target="_blank">Marist College</a>. I've worked with award winning teams at companies like Sony PlayStation, Activision Publishing, and Major League Baseball! I'm always working on a bunch of side projects in the areas of interest listed below, but feel free to reach out if you think I'd make a good addition to your team. Please check out some of my work here on GitHub and visit my <a href="https://crav12345.github.io/ChrisRavosa.com/" target="_blank">website</a> to learn a little more about me!</p>
-<h3>Email: Christopher.Ravosa99@gmail.com</h3>
-<h2>Areas of Interest</h2>
+<p>
+I'm Christopher Ravosa, a software engineer focused on building <b>simulation systems, real-time infrastructure, and multi-agent environments</b>.
+</p>
+
+<p>
+My work spans deterministic simulation, autonomous agent environments, backend systems, and large-scale mobile applications. I’ve built production systems across games, distributed services, and data pipelines, and I’m currently focused on designing systems that model <b>coordination, routing, and behavior under constraints</b>.
+</p>
+
+<p>
+I have a <em>B.S. in Computer Science</em> and an <em>M.S. in Software Development</em> from <a href="https://www.marist.edu/" target="_blank">Marist College</a>, and have worked on engineering teams at Sony PlayStation, Activision, and Major League Baseball.
+</p>
+
+<p>
+More: <a href="https://www.chrisravosa.com/" target="_blank">Website</a><br/>
+Contact: Christopher.Ravosa99@gmail.com
+</p>
+
+---
+
+<h2>Focus Areas</h2>
 <ul>
-  <li>Mobile development</li>
-  <li>Augmented reality</li>
-  <li>Algorithm design and analysis</li>
-  <li>Game design and development</li>
+  <li>Deterministic simulation systems</li>
+  <li>Multi-agent coordination and routing</li>
+  <li>Real-time and distributed systems</li>
+  <li>Autonomous environments and evaluation tooling</li>
 </ul>
-<h2>Tool Proficiencies</h2>
-<table><tr><td valign="top" width="33%">
-  
-### Frontend
-<div align="center">
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
-       alt="React Native"
-  />
-  <img
-       width="50"
-       src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"
-       alt="CSS"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"
-       alt="Android Studio"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
-       alt="Figma"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
-       alt="HTML5"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"
-       alt="Kotlin"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
-       alt="JavaScript"
-  />
-</div></td><td valign="top" width="33%">
 
-### Backend
-<div align="center">
-  <img
-       width="50"
-       src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-4-logo.png"
-       alt="Java"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"
-       alt="JavaScript"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"
-       alt="Python"
-  />
-  <img
-       width="50"
-       src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"
-       alt="C#"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"
-       alt="C++"
-  />
-  <img
-       width="50"
-       src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"
-       alt="Postman"
-  />
-  <img
-       width="50"
-       src="https://image.winudf.com/v2/image1/YWlyLlNRTEVkaXRvcl9pY29uXzE1NjY5OTkyOTJfMDc5/icon.png?w=&fakeurl=1"
-       alt="SQL"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
-       alt="Node.js"
-  />
-  <img
-       width="50"
-       src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png"
-       alt="MongoDB"
-  />
-  <img
-       width="50"
-       src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-       alt="Git"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"
-       alt="Rust"
-  />
-  <img
-       width="50"
-       src="https://www.sohamkamani.com/nodejs/expressjs-architecture/express-routing-logo.png"
-       alt="Express.js"
-  />
-</div></td><td valign="top" width="33%">
+---
 
-### Game Development
-<div align="center">
-  <img
-       width="50"
-       src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png"
-       alt="Unity"
-  />
-  <img
-       width="50"
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png"
-       alt="Construct"
-  />
-  <img
-       width="50"
-       src="https://msbassetttech.weebly.com/uploads/1/3/3/9/13391031/piksel-logo_orig.png"
-       alt="Piskel"
-  />
-</div></td></tr></table>
+<h2>Highlighted Work</h2>
+<ul>
+  <li><b>Emergency Response Simulation (in progress)</b><br/>
+  Deterministic multi-agent system modeling dispatch, routing, and congestion in constrained urban environments. Includes replay, metrics, and policy evaluation.</li>
 
-<br />
+  <li><b>AI-Driven Simulation Systems (Moku)</b><br/>
+  Designed and implemented ML-Agents environments, deterministic replay pipelines, and runtime-configurable training systems for large-scale autonomous simulations.</li>
 
-<!--
-**crav12345/crav12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <li><b>Backend & Matchmaking Systems (MLB)</b><br/>
+  Built REST APIs, TCP matchmaking services, leaderboard systems, and data pipelines supporting live mobile applications with large player bases.</li>
+</ul>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Technical Stack</h2>
+
+<ul>
+  <li><b>Languages:</b> C#, C++, Python, JavaScript</li>
+  <li><b>Systems:</b> Unity, real-time simulation, distributed services</li>
+  <li><b>Backend:</b> Node.js, MongoDB, REST APIs</li>
+  <li><b>Tools:</b> Git, GCP, CI/CD pipelines</li>
+</ul>
+
+---
+
+<h2>What I'm Focused On</h2>
+<p>
+Designing systems that model real-world constraints and behavior at scale — particularly in simulation, autonomy, and coordination-heavy environments.
+</p>
+
+<p>
+Open to roles in simulation, robotics, autonomy, and systems engineering.
+</p>
