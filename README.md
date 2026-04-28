@@ -48,9 +48,6 @@ Contact: Christopher.Ravosa99@gmail.com
 
   <li><b>Data Processing & Leaderboard Systems</b><br/>
   Designed high-throughput data pipelines using MongoDB aggregation to process and rank millions of records efficiently.</li>
-
-  <li><b>Emergency Response Simulation (in progress)</b><br/>
-  Deterministic system modeling routing, congestion, and coordination in constrained environments, with a focus on observability and reproducibility.</li>
 </ul>
 
 ---
