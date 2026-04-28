@@ -4,15 +4,15 @@
 
 <h2>About</h2>
 <p>
-I'm Christopher Ravosa, a software engineer focused on building <b>real-time systems, backend infrastructure, and high-throughput data pipelines</b>.
+I'm Christopher Ravosa, a software engineer focused on building <b>backend systems, real-time services, and high-throughput data infrastructure</b>.
 </p>
 
 <p>
-My work centers on designing systems that process, simulate, and react to real-world signals — from distributed services handling live user interactions to deterministic simulation environments used to evaluate complex system behavior.
+I design and operate systems that handle live user interactions, process large volumes of data, and maintain performance under load. My work emphasizes <b>reliability, observability, and scalability</b>.
 </p>
 
 <p>
-I’ve built production APIs, matchmaking systems, data pipelines, and simulation platforms, with an emphasis on <b>reliability, observability, and performance under load</b>.
+I’ve built production APIs, matchmaking services, data pipelines, and internal tooling across consumer applications and live service environments.
 </p>
 
 <p>
@@ -30,24 +30,27 @@ Contact: Christopher.Ravosa99@gmail.com
 
 <h2>Focus Areas</h2>
 <ul>
+  <li>Backend systems and API design</li>
   <li>Real-time and distributed systems</li>
-  <li>Backend services and API design</li>
   <li>High-throughput data processing</li>
-  <li>Simulation systems for system behavior and evaluation</li>
+  <li>System reliability and performance under load</li>
 </ul>
 
 ---
 
 <h2>Highlighted Work</h2>
 <ul>
-  <li><b>Simulation & Agent Systems (Moku)</b><br/>
-  Built systems to run large-scale parallel simulations for autonomous agents, including runtime-configurable environments and deterministic recording pipelines for debugging and replay.</li>
-
   <li><b>Backend & Matchmaking Systems (Major League Baseball)</b><br/>
   Developed TCP-based matchmaking services and REST APIs supporting real-time user interactions, with stress testing frameworks to ensure reliability under peak load.</li>
 
   <li><b>Data Processing & Leaderboard Systems</b><br/>
-  Designed high-throughput data pipelines using MongoDB aggregation to process and rank millions of records efficiently.</li>
+  Built systems to process and rank large-scale datasets using MongoDB aggregation pipelines, handling millions of records efficiently.</li>
+
+  <li><b>High-Throughput Backend Services</b><br/>
+  Designed and operated backend systems that maintain performance under heavy request load, including API services and supporting infrastructure.</li>
+
+  <li><b>Internal Tooling & Infrastructure</b><br/>
+  Built tools for debugging, logging, configuration management, and deployment to improve developer velocity and system observability.</li>
 </ul>
 
 ---
@@ -65,9 +68,9 @@ Contact: Christopher.Ravosa99@gmail.com
 
 <h2>What I'm Focused On</h2>
 <p>
-Building systems that operate on real-world data in real time — particularly where correctness, latency, and system behavior under load matter.
+Building backend systems that operate reliably at scale — especially where latency, throughput, and correctness matter.
 </p>
 
 <p>
-Interested in roles focused on backend systems, distributed infrastructure, and data-driven products.
+Interested in roles focused on backend infrastructure, distributed systems, and data-driven products.
 </p>
