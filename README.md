@@ -58,7 +58,7 @@ Contact: Christopher.Ravosa99@gmail.com
 <h2>Technical Stack</h2>
 
 <ul>
-  <li><b>Languages:</b> C#, C++, Python, TypeScript, JavaScript</li>
+  <li><b>Languages:</b> C#, C++, Python, TypeScript, JavaScript, Java</li>
   <li><b>Systems:</b> Distributed systems, real-time systems, TCP networking</li>
   <li><b>Backend:</b> Node.js, REST APIs, MongoDB</li>
   <li><b>Infrastructure:</b> GCP, AWS, CI/CD pipelines</li>
